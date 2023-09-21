@@ -1,0 +1,127 @@
+body{
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #f5f5f5;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo img {
+    width: 100px;
+    height: auto;
+    left: 129px;
+    margin-left: 106px;
+}
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-right: 106px;
+}
+.nav {
+    display: flex;
+    gap: 20px;
+}
+.nav-item {
+    background-color: #f5f5f5;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #333;
+}
+.custom-text {
+    font-weight: bold;
+    font-size: 24px; 
+    width: 150px;
+    height: 240px;
+    position: absolute;
+    top: 226px;
+    left: 129px;
+}
+.custom-text-1 {
+    font-weight: bold;
+    font-size: 24px;
+    width: 386px;
+    height: 240px;
+    position: absolute;
+    top: 226px;
+    left: 129px;
+}
+.custom-text-2 {
+    font-size: 18px;
+    width: 400px;
+    height: 108px;
+    position: absolute;
+    top: 350px;
+    left: 127px;
+}
+.custom-button {
+    width: 438px;
+    height: 78px;
+    position: absolute;
+    top: 505px;
+    left: 129px; 
+    border-radius: 15px;
+    background-color: #263238;
+    color: #fff; 
+    font-weight: bold; 
+    font-size: 18px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.custom-image {
+    width: 661px;
+    height: 601px;
+    position: absolute;
+    top: 100px;
+    left: 816px;
+}
+.custom-image-1 {
+    width: 85px;
+    height: 85px;
+    position: absolute;
+    top: 250px;
+    left: 606px;
+}
+.call-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #263238;
+  color: #fff;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+}
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 589px;
+}
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+.right-content {
+  font-size: 18px;
+}
+.footer ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+.footer li {
+  margin-right: 20px;
+}
+.login_Register{
+  color: #f5f5f5;
+}
